@@ -299,6 +299,4 @@ Created by the Resilient Connect Team
 ---
 
 **Last Updated**: January 17, 2026
-#   O f f l i n e - w e b - a p p - f o r - d i s a s t e r - r e s q u e  
- #   O f f l i n e - w e b - a p p - f o r - d i s a s t e r - r e s q u e  
- 
+#
